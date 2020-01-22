@@ -1,5 +1,7 @@
 # Index
 
+
+## [/contact](/contact)
 ## [/blog](/blog)
 {% for file in site.static_files %}
   {% if file.path contains '/blog/' and file.basename != 'README' %}
