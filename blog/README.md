@@ -9,8 +9,8 @@
 
 ## Prudence avec les fruits
 
-***Précision préalable*** 
-Il sera question dans cet article uniquement des fruits dits "aqueux", ou fruits frais : 
+***Précision préalable***   
+Il sera question dans cet article uniquement des fruits dits "aqueux", ou fruits frais :   
 **pommes, poires, cerises, pêches, abricots, kakis, fruits exotiques (sauf bananes), agrumes, fruits rouges et baies, raisin, prunes, kiwis, melons, pastèques, coings, figues, tomates.**  
 Seront donc exclus :  
 -les fruits oléagineux (noix diverses, amandes, avocats, olives, noisettes, pistaches...)  
