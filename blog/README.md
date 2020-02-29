@@ -44,7 +44,7 @@ Vous retirerez alors tous les bénéfices des fruits (fibres, vitamines, phytonu
 De plus, les sensibilités sont individuelles et peuvent varier en fonction d'autres facteurs que l'on ne connait pas forcément.
 Testez et observez-vous ! (vous apprendrez dans les paragrapahes suivants les conséquences et indices de la sensibilité aux acides).
 
-#### Circonstances et tempéraments défavorables####
+#### Circonstances et tempéraments défavorables
 |Circonstances extérieures |Tempérament personnel  |
 |--------------------------|-----------------------|
 |Il fait froid / frais     |Vous êtes sédentaire   |
