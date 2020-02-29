@@ -13,8 +13,8 @@
 Il sera question dans cet article uniquement des fruits dits "aqueux", ou fruits frais : 
 **pommes, poires, cerises, pêches, abricots, kakis, fruits exotiques (sauf bananes), agrumes, fruits rouges et baies, raisin, prunes, kiwis, melons, pastèques, coings, figues, tomates.**
 Seront donc exclus :
-* les fruits oléagineux (noix diverses, amandes, avocats, olives, noisettes, pistaches...)
-* les fruits amylacés (chataîgnes et bananes)
+-les fruits oléagineux (noix diverses, amandes, avocats, olives, noisettes, pistaches...)
+-les fruits amylacés (chataîgnes et bananes)
 
 Il faut rappeler que les fruits n'ont pas toujours été aussi abondants et appétissants.
 **La nature se montre parcimonieuse** dans l'hémisphère Nord, dont la France fait partie.
@@ -38,6 +38,25 @@ Ils sont ainsi facilement éliminés et sans incidence sur l'équilibre interne.
 |                          |Bonne dentition
 |                          |Serein, jovial, moral  |
 |                          |Costaud                |
+
+Plus vous cumulez ces caractéristiques, plus l'oxydation des acides sera complète et rapide.
+Vous retirerez alors tous les bénéfices des fruits (fibres, vitamines, phytonutriments), sans avoir de désagréments.Il n'est pas forcément nécessaire de remplir toutes ces conditions si celles qui vous concernent sont très marquées.
+De plus, les sensibilités sont individuelles et peuvent varier en fonction d'autres facteurs que l'on ne connait pas forcément.
+Testez et observez-vous ! (vous apprendrez dans les paragrapahes suivants les conséquences et indices de la sensibilité aux acides).
+
+#### Circonstances et tempéraments défavorables####
+|Circonstances extérieures |Tempérament personnel  |
+|--------------------------|-----------------------|
+|Il fait froid / frais     |Vous êtes sédentaire   |
+|Matin                     |Vous êtes frileux|
+|                          |Teint pâle             |
+|                          |Dents fragiles / sensibles|
+|                          |Anxieux, déprimé       |
+|                          |Maigre, longiligne     |
+|                           |Très sensible          |
+|                           |Fatigué ou fatiguable  |
+
+
                            
 
 
