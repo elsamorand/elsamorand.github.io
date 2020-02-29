@@ -6,3 +6,7 @@
 [{{ file.basename }}]({{ file.path | slice: 0, s}})
   {% endif %}
 {% endfor %}
+
+##Prudence avec les fruits##
+
+Les fruits blabla bla
