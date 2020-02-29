@@ -16,12 +16,12 @@ Seront donc exclus :
 -les fruits oléagineux (noix diverses, amandes, avocats, olives, noisettes, pistaches...)  
 -les fruits amylacés (chataîgnes et bananes)
 
-Il faut rappeler que les fruits n'ont pas toujours été aussi abondants et appétissants.
-**La nature se montre parcimonieuse** dans l'hémisphère Nord, dont la France fait partie.
-Des griottes, des pommes et des prunes petites et acides, quelques figues et baies sauvages essentiellement, que l'on "partage" malgré nous avec les insectes et animaux.
-Et plus rien durant les mois les plus froids, soit plus de la moitié de l'année.
-Rien à voir avec l'abondance permanente, sur tous les étals (même bio), de beaux et gros fruits juteux et sucrés, qui incite à une **consommation excessive**, en toute saison.
-Le tout abondamment relayé par une propagande généralisée.
+Il faut rappeler que les fruits n'ont pas toujours été aussi abondants et appétissants.  
+**La nature se montre parcimonieuse** dans l'hémisphère Nord, dont la France fait partie.  
+Des griottes, des pommes et des prunes petites et acides, quelques figues et baies sauvages essentiellement, que l'on "partage" malgré nous avec les insectes et animaux.  
+Et plus rien durant les mois les plus froids, soit plus de la moitié de l'année.  
+Rien à voir avec l'abondance permanente, sur tous les étals (même bio), de beaux et gros fruits juteux et sucrés, qui incite à une **consommation excessive**, en toute saison.  
+Le tout abondamment relayé par une propagande généralisée.  
 Pourtant, si leurs bienfaits et qualités sont indéniables, **ils peuvent poser problème dans de nombreux cas.**
 
 ### 1/ L'acidité des fruits
