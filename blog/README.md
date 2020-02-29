@@ -7,6 +7,6 @@
   {% endif %}
 {% endfor %}
 
-##Prudence avec les fruits##
+##Prudence avec les fruits
 
 Les fruits blabla bla
