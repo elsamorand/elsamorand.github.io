@@ -41,10 +41,8 @@ Renseignez-vous sur les qualités de l'ortie, de l'huile d'olive, ou encore des 
 Vous constaterez qu'ici aussi la nature se montre généreuse.  
 Voici, pour finir, quelques exemples "d'équivalences":
 
-|quinoa       |sarrasin     |
+|:Exotique      :|:Local    :|
 |-------------|-------------|
 |huile de coco|huile d'olive|
-|-------------|-------------|
 |moringa      |ortie        |
-|-------------|-------------|
 |spiruline, klamath|ortie, herbe d'orge, de blé|
