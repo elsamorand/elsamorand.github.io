@@ -41,8 +41,18 @@ Renseignez-vous sur les qualités de l'ortie, de l'huile d'olive, ou encore des 
 Vous constaterez qu'ici aussi la nature se montre généreuse.  
 Voici, pour finir, quelques exemples "d'équivalences":
 
-|:Exotique      :|:Local    :|
+|Exotique      |Local    |
 |-------------|-------------|
 |huile de coco|huile d'olive|
 |moringa      |ortie        |
 |spiruline, klamath|ortie, herbe d'orge, de blé|
+|graines de chia|graines de lin et chanvre|
+|baies de goji|myrtilles séchées|
+|acérola, camu-camu|cynorhodon, argousier, cassis|
+|miel de Manuka|propolis|
+|cacao, café|caroube|
+|cajou, noix deu Brésil|noisettes, noix|
+|maca, ginseng|romarin frais, bourgeons de chêne et de cassis|
+|gingembre, curcuma|herbes aromatiques|
+
+Vous pouvez même choisir de produire ou cueillir vous mêmes la plupart de ces trésors !
