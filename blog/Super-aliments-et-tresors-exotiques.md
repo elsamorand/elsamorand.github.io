@@ -42,5 +42,9 @@ Vous constaterez qu'ici aussi la nature se montre généreuse.
 Voici, pour finir, quelques exemples "d'équivalences":
 
 |quinoa       |sarrasin     |
+|-------------|-------------|
 |huile de coco|huile d'olive|
+|-------------|-------------|
 |moringa      |ortie        |
+|-------------|-------------|
+|spiruline, klamath|ortie, herbe d'orge, de blé|
