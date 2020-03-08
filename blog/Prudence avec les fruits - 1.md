@@ -22,12 +22,13 @@ Lorsque les circonstances et le tempérament personnel le permettent, ceux-ci so
 Ils sont ainsi facilement éliminés et sans incidence sur l'équilibre interne.
 
 #### Circonstances et tempéraments favorables
+
 |Circonstances extérieures |Tempérament personnel  |
 |--------------------------|-----------------------|
 |Il fait chaud             |Vous êtes sportif      |
 |Après-midi et soir        |Vous n'êtes pas frileux|
 |                          |Teint coloré           |
-|                          |Bonne dentition
+|                          |Bonne dentition        |
 |                          |Serein, jovial, moral  |
 |                          |Costaud                |
 
@@ -37,16 +38,17 @@ De plus, les sensibilités sont individuelles et peuvent varier en fonction d'au
 Testez et observez-vous ! (vous apprendrez dans les paragrapahes suivants les conséquences et indices de la sensibilité aux acides).
 
 #### Circonstances et tempéraments défavorables
+
 |Circonstances extérieures |Tempérament personnel  |
 |--------------------------|-----------------------|
 |Il fait froid / frais     |Vous êtes sédentaire   |
-|Matin                     |Vous êtes frileux|
+|Matin                     |Vous êtes frileux      |
 |                          |Teint pâle             |
 |                          |Dents fragiles / sensibles|
 |                          |Anxieux, déprimé       |
 |                          |Maigre, longiligne     |
-|                           |Très sensible          |
-|                           |Fatigué ou fatiguable  |
+|                          |Très sensible          |
+|                          |Fatigué ou fatiguable  |
 
 Si l'on consomme des fruits dans des circonstances ou avec un tempérament défavorables, cette oxydation naturelle ne se fait pas complètement, et d'autres mécanismes de compensation entrent en jeu.  
 Là encore, deux ou trois points cumulés peuvent souvent suffirevcà rendre les fruits problématiques.
