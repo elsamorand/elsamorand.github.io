@@ -41,7 +41,7 @@ Ce qui implique donc un travail pour cet organe, qui manifestera des signes de s
 . Veiller à consommer régulièrement des aliments riches en magnésium (chou, sésame, amandes, fruits de mer, flétan, bananes...)
 Si cela ne suffit pas, ajouter des gélules de magnésium bisglycinate, une forme très assimilabe et sans effet laxatif.
   
-. Limiter les aliments acides pour éviter la fuite du magnésium (voir (article sur les fruits)[https://elsamorand.github.io/blog/Prudence%20avec%20les%20fruits%20-%201])
+. Limiter les aliments acides pour éviter la fuite du magnésium (article sur les fruits)[https://elsamorand.github.io/blog/Prudence%20avec%20les%20fruits%20-%201]
 
 . Eviter les laitages le plus possible. Leur forte teneur en calcium entrave la bonne assimilation du magnésium, leurs protéines sont    très inflammatoires, et ils contiennent des activateurs d'oestrogènes. Le beurre ne pose pas de problème.
 
