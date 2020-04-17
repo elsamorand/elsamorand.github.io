@@ -4,9 +4,9 @@ Diététique et Naturopathie
 
 ## Menu
 
-### [Articles](/blog)
+### [Articles](/article)
 
-### [Consultation](/consultation)
+### [Consultations](/consultations)
 
 ## Qui suis-je ?
 
