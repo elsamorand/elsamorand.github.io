@@ -1,11 +1,15 @@
-# Index
 
+# Elsa Morand
+Diététique et Naturopathie
 
-## [/contact](/contact)
-## [/blog](/blog)
-{% for file in site.static_files %}
-  {% if file.path contains '/blog/' and file.basename != 'README' %}
-    {% assign s = file.path.size | minus: 3 %}
-[/blog/{{ file.basename }}]({{ file.path | slice: 0, s}})
-  {% endif %}
-{% endfor %}
+## Menu
+### [Articles](/blog)
+### [Consultation](/consultation)
+
+## Qui suis-je ?
+> todo
+
+## Contact
+- **youtube:** [Elsa Morand](https://www.youtube.com/channel/UCniLFQIu9UNK1ITvEZXW1kw)
+- **mail:** [morandelsa@yahoo.fr](mailto:morandelsa@yahoo.fr)
+- **tel:** 05 81 73 15 01
