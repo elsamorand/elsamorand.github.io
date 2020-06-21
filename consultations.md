@@ -35,9 +35,9 @@ Une seconde consultation de suivi sera envisagée si nous le jugeons nécessaire
 
 ## Tarifs et modalités de rdv
 
-~Première consultation~ : 45€  
-Consultation de suivi : 35€  
-Forfait 3 consultations : 100€  
+**Première consultation :** 45€  
+**Consultation de suivi :** 35€  
+**Forfait 3 consultations :** 100€  
 
 Paiement par chèque ou espèces.
 
