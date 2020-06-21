@@ -4,6 +4,7 @@ Diététique et Naturopathie
 
 ## Menu
 
+- Accueil
 - [Articles](/article)
 - [Consultations](/consultations)
 - [Contact](/#contact)
