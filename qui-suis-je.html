@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Elsa Morand - Naturopathe</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<style type="text/css">
+
+/* latin */
+@font-face {
+  font-family: 'IM Fell English';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('IM FELL English Roman'), local('IM_FELL_English_Roman'), url(https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOY.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSoHSPhw65yTwigg28kh&skey=c89f400061e5d0a8&v=v14) format('woff2');
+}
+
+html, body {
+  font-family: 'IM Fell English';
+  font-size: 21px;
+  margin: 0;
+  padding: 0;
+  background-color: #e4e6de;
+  position: relative;
+  z-index: -2;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: 'Dancing Script';
+  text-shadow: #394213 2px 2px 0px;
+}
+
+h1 span {
+  display: block;
+  font-family: 'IM Fell English';
+  font-variant: all-small-caps;
+  font-size: 34px;
+  line-height: 21px;
+  letter-spacing: 6px;
+}
+
+.subtitle {
+  letter-spacing: 1px;
+}
+
+* {box-sizing: border-box }
+
+header {
+  text-align: center;
+  background-image: url(/bg.jpg);
+  background-size: 960px;
+  color: white;
+  background-position: center;
+  padding-top: 60px;
+  height: 420px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+header:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  background-image: url('data:image/jpeg;base64,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');
+  background-size: 960px;
+  background-position: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+#wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  border-radius: 0 0 8px 8px;
+  overflow: hidden;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 6px;
+}
+a {
+  color: #91318f;
+}
+header a {
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 90px;
+  color: black;
+}
+
+h3 {
+  margin-top: 70px;
+}
+
+p {
+  font-size: 18px;
+}
+
+blockquote span {
+  margin: 0 6px;
+}
+
+blockquote {
+  text-align: center;
+  line-height: 32px;
+  display: block;
+  margin-top: 30px;
+  color: #675852;
+  padding: 10px 100px;
+}
+
+blockquote div {
+  display: flex;
+  justify-content: space-around;
+}
+
+content {
+  padding: 1px 60px 60px;
+  display: block;
+  background: white;
+  color: #2c300e;
+}
+
+.hidden {
+  display: none;
+}
+
+nav {
+  background: #0000002e;
+}
+
+.ui {
+  user-select: none;
+  cursor: default;
+}
+
+@media (max-width: 640px) {
+  body {
+    font-size: 16px;
+  }
+  header {
+    background-size: 660px;
+    padding-top: 30px;
+    height: 230px;
+  }
+  h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+  }
+  h1 span {
+    line-height: 10px;
+    letter-spacing: 4px;
+    font-size: 25px;
+  }
+
+  .subtitle {
+    font-size: 14px;
+  }
+
+  content {
+    padding: 1px 6px 12px;
+  }
+
+  #wrapper {
+    border-radius: 0;
+  }
+
+  blockquote {
+    padding: 10px 0px;
+  }
+
+}
+
+@media (max-width: 960px) {
+
+  content {
+    padding: 1px 30px 60px;
+  }
+
+  #wrapper {
+    border-radius: 0;
+  }
+
+
+  blockquote {
+    padding: 10px;
+  }
+
+}
+
+</style>
+<body>
+  <div id="wrapper" itemscope itemtype="https://schema.org/LocalBusiness">
+    <header>
+      <div>
+        <h1 itemprop="name">Elsa Morand <span>Naturopathe</span></h1>
+        <span itemprop="description" class='subtitle'>Hygiène de vie, alimentation, traitements naturels</span>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/">Accueil<a></li>
+          <li><a href="/article">Articles</a></li>
+          <li><a href="/consultations">Consultations</a></li>
+          <li class="ui">Qui suis-je ?</li>
+        </ul>
+      </nav>
+    </header>
+    <content>
+
+      <blockquote>
+        <div>
+          <span><a href="mailto:morandelsa@yahoo.fr">morandelsa@yahoo.fr</a></span>
+          | <span itemprop="telephone"><a href="tel:+33581731501">05&nbsp81&nbsp73&nbsp15&nbsp01</a></span>
+          | <span>Gourdon&nbsp(46)</span>
+          </div>
+        <div class="hidden">
+          <span itemprop="openingHours" content="Th 13:00-19:00">tout les jeudi, de 13h a 19h</span>
+        </div>
+        <div class="hidden" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+          <span itemprop="streetAddress">60 Bd Aristide Briand</span>
+          <span itemprop="postalCode">F-46300</span>
+          <span itemprop="addressLocality">Gourdon, France</span>
+        </div>
+      </blockquote>
+      <h2 id="qui-suis-je-">Qui suis-je ?</h2>
+
+      <h3 id="les-débuts">Les débuts…</h3>
+
+      <p>Je suis née en 1988, et j’ai commencé à lire des ouvrages de naturopathie et phytothérapie dès l’âge de 10 ans.<br />
+      Cet intérêt précoce, je le dois sans doute à ma mère, qui s’est beaucoup documentée pour offrir à ses enfants une hygiène de vie saine, à l’écart des fast-food, médicaments et autres.<br />
+      J’ai donc acquis très jeune certains des principes fondamentaux de la diététique, ainsi que quelques connaissances sur les plantes médicinales et autres traitements naturels.</p>
+
+      <h3 id="la-suite">La suite…</h3>
+
+      <p>Plus tard, pour approfondir et développer mes connaissances, j’ai suivi l’enseignement de Robert Masson, et obtenu le certificat de naturopathe en 2011.<br />
+      Depuis, je n’ai jamais cessé d’apprendre et de chercher à comprendre, au travers de nombreuses lectures, des conférences, beaucoup de réflexion, mais aussi en expérimentant sur moi-même certaines théories, et en observant les autres.</p>
+
+      <h3 id="et-aujourdhui">Et aujourd’hui…</h3>
+
+      <p>Je continue ce passionnnant travail de recherche, le plus objectivement possible, toujours humble face aux faits.<br />
+      J’ai à coeur de partager tout cela avec ceux qui aiment apprendre, comprendre, qui ont besoin de pistes et de conseils pour se sentir mieux au quotidien, qui souhaitent gérer leur santé de manière autonome et responsable.<br />
+      Mon objectif est également d’éclaircir, de nuancer, certains dogmes et idées reçues rarement remis en question.</p>
+
+    </content>
+  </div>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68.7 4.6" height="17.2" width="259.8" style="margin: 100px auto; display: block">
+    <path fill="#413e19" d="M36.2 2.3L34.5 0l-.1-.1h-.1l-1.7 2.3v.2l1.7 2h.2l1.7-2v-.2M2.3 2.4L1.3 1h-.1H1L0 2.4c-.1 0-.1.1 0 .2l1 1.2h.1l1-1.2c.1 0 .1-.1 0-.2M68.7 2.3l-1-1.4h-.1l-1.1 1.4v.2l1 1.2h.2l1-1.2v-.2M29.3 1.9c-.2-.8-1-1.1-1.6-1l-.4.1c-.5.3-.7 1-.5 1.6l.3.4c.1.3.3.5.6.5h.6c.8 0 1-1 1-1.6M41.5 1.9c-.1-.5-.6-1-1.1-1-.3 0-.7 0-1 .2a2 2 0 00-.4 1v.5c0 .1 0 .3.2.4 0 .3.3.5.7.5h.7c.7-.3 1.2-1 1-1.6M22.5 1.4c-1 0-1 1.6 0 1.6s1-1.6 0-1.6M46 1.4a1 1 0 00-1 .9c0 .5.4 1 1 1 .5 0 .9-.5.9-1s-.4-1-1-1M3.8 2.3h.7a19.7 19.7 0 011.7 0h1.9l.6-.1H17l2.4.1.1.1-.1.1s-1 .2-2.4.2H13c-.5-.2-1-.1-1.4 0H8.7l-.6-.1H6.2a18.6 18.6 0 01-1.7 0h-.7v-.2M49 2.3h.8a19.9 19.9 0 011.7 0H53.3l.7-.1H62l2.5.1v.2s-1 .2-2.5.2H58.3c-.5-.2-1-.1-1.5 0H54l-.7-.1H51.5a18.6 18.6 0 01-1.7 0H49l-.1-.2"/>
+  </svg>
+</body>
+</html>
