@@ -1,12 +1,12 @@
 
 ## Prudence avec les fruits (Partie 1/2)
 
-***Précision préalable***   
-Il sera question dans cet article uniquement des fruits dits "aqueux", ou fruits frais :   
-**pommes, poires, cerises, pêches, abricots, kakis, fruits exotiques (sauf bananes), agrumes, fruits rouges et baies, raisin, prunes, kiwis, melons, pastèques, coings, figues, tomates.**  
-Seront donc exclus :  
--les fruits oléagineux (noix diverses, amandes, avocats, olives, noisettes, pistaches...)  
--les fruits amylacés (chataîgnes et bananes)
+> ***Précision préalable***   
+> Il sera question dans cet article uniquement des fruits dits "aqueux", ou fruits frais :   
+> **pommes, poires, cerises, pêches, abricots, kakis, fruits exotiques (sauf bananes), agrumes, fruits rouges et baies, raisin, prunes, kiwis, melons, pastèques, coings, figues, tomates.**  
+> Seront donc exclus :  
+> - les fruits oléagineux *(noix diverses, amandes, avocats, olives, noisettes, pistaches...)*
+> - les fruits amylacés *(chataîgnes et bananes)*
 
 Il faut rappeler que les fruits n'ont pas toujours été aussi abondants et appétissants.  
 **La nature se montre parcimonieuse** dans l'hémisphère Nord, dont la France fait partie.  
@@ -62,17 +62,19 @@ Pour cela, il va falloir faire monter leur PH bas (acide) en les combinant aux s
 Ces substances sont les minéraux présents dans les différents tissus du corps, notamment calcium, magnésium, potassium, sodium, fer, cuivre, zinc, manganèse.    
 Par exemple, pour neutraliser une molécule d'acide citrique, il pourra "sacrifier" du magnésium, ce qui donnera un sel appelé citrate de magnésium, éliminé ensuite dans les urines.  
 Les fruits consommés en excès ou de manière inadéquate sont donc une cause majeure de déminéralisation.  
-Cette déminéralisation peut toucher toutes les parties du corps, car les minéreaux sont partout, et les symptômes qui en découlent sont donc aussi nombreux que variés :
--peau sèche, crevasses
--douleurs et sensibilité dentaire, caries, gingivites, émail fragilisé
--douleurs osseuses et articulaires, tendinites, hyperlaxité ligamentaire, ostéomalacie, arthrose
--fragilité veineuse et capillaire, acrocyanose
--nervosité, déprime, insomnie
--crampes, spasmophilie, myoclonie
--etc
+Cette déminéralisation peut toucher toutes les parties du corps, car les minéreaux sont partout, et les symptômes qui en découlent sont donc aussi nombreux que variés:
+  - peau sèche, crevasses
+  - douleurs et sensibilité dentaire, caries, gingivites, émail fragilisé
+  - douleurs osseuses et articulaires, tendinites, hyperlaxité ligamentaire, ostéomalacie, arthrose
+  - fragilité veineuse et capillaire, acrocyanose
+  - nervosité, déprime, insomnie
+  - crampes, spasmophilie, myoclonie
+  - etc
+
 Ainsi que les nombreux troubles induits par les carences en chacun des minéreaux.
 
 ### 2/ Précisions importantes
+
 Les mécanismes décrits plus haut seront exactement les mêmesavec les autres boissons et aliments acides :  
 * vinaigre et condiments vinaigrés (cornichons, câpres, moutarde, ketchup, pickles...)
 * choucroute et légumes lactofermentés (y compris sous forme de jus)
@@ -83,7 +85,7 @@ Les mécanismes décrits plus haut seront exactement les mêmesavec les autres b
 * sodas, limonade et toutes les boissons aux fruits
 * tartares marinés au citron
 
-Ne pas oublier que les tomates, *sous toutes leurs formes* sont des fruits acides !!
+> Ne pas oublier que les tomates, *sous toutes leurs formes* sont des fruits acides !!
 
 Par ailleurs, il est utiles de savoir que certains fruits sont quasiment dépourvus d'acidité, et peuvent donc être consommés sans les inconvénients liés aux acides, mêmes par les personnes qui y sont sensibles, ou le matin.
 Il s'agit du kaki, des melons et de la pastèque, ainsi que de la figue.
