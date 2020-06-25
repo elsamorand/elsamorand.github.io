@@ -1,6 +1,24 @@
-# Articles
+# Elsa Morand
 
-- [Les règles douloureuses](les-regles-douloureuses.md)
-- [Prudence avec les fruits - 1](prudence-avec-les-fruits-1.md)
-- [Prudence avec les fruits - 2](prudence-avec-les-fruits-2.md)
-- [Super-aliments et trésors exotiques](super-aliments-et-tresors-exotiques.md)
+Diététique et Naturopathie
+
+## Menu
+
+- [Accueil](/)
+- Articles
+- [Consultations](/consultations)
+- [Qui suis-je ?](/qui-suis-je)
+
+## Articles
+
+- [Les règles douloureuses](/article/les-regles-douloureuses) règles, magnésium, hormones
+> Comprendre et soigner naturellement les règles douloureuses
+
+- [Prudence avec les fruits - 1](/article/prudence-avec-les-fruits-1) acidité, déminéralisation, fruits
+> Effets de la consommation de fruits selon son tempérament
+
+- [Prudence avec les fruits - 2](/article/prudence-avec-les-fruits-2) digestion, frilosité, combinaisons alimentaires
+> Quand et comment consommer les fruits
+
+- [Super-aliments et trésors exotiques](/article/super-aliments-et-tresors-exotiques) spiruline, chia, baies de goji, acérola, noix de cajou, coco, avocat
+> Réflexions et mise en garde sur les super-aliments à la mode

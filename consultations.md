@@ -1,15 +1,25 @@
-# Consultations
+# Elsa Morand
 
+Diététique et Naturopathie
 
-Je propose des accompagnements individuels pour vous permettre  de retrouver votre bien-être de manière durable et plus autonome.  
+## Menu
 
-L’objectif est de trouver ensemble l’origine de vos troubles de santé, et d’y remédier par l’adoption d’un mode de vie et d’un réglage alimentaire plus adaptés à votre profil.  
+- [Accueil](/)
+- [Articles](/article)
+- Consultations
+- [Qui suis-je ?](/qui-suis-je)
 
-Certaines aides douces et naturelles seront parfois employées en fonction des besoins, telles que compléments alimentaires, exercices de relaxation ou plantes médicinales.  
+## Consultations
 
-Mon aide s’adresse à tous, adultes, adolescents et enfants dès 3 ans.  
+Je propose des accompagnements individuels pour vous permettre de retrouver votre bien-être de manière durable et plus autonome.
 
-## Première consultation
+L’objectif est de trouver ensemble l’origine de vos troubles de santé, et d’y remédier par l’adoption d’un mode de vie et d’un réglage alimentaire plus adaptés à votre profil.
+
+Certaines aides douces et naturelles seront parfois employées en fonction des besoins, telles que compléments alimentaires, exercices de relaxation ou plantes médicinales.
+
+Mon aide s’adresse à tous, adultes, adolescents et enfants dès 3 ans.
+
+### Première consultation
 
 Le premier rdv se déroule en plusieurs étapes:
 
@@ -23,7 +33,7 @@ Le premier rdv se déroule en plusieurs étapes:
 
 - Je reste à votre disposition, par mail ou téléphone, pour toute question relative à votre programme personnalisé.
 
-## Consultation de suivi
+### Consultation de suivi
 
 La ou les séance(s) de suivi vont nous permettre de faire le point sur les premiers résultats.
 
@@ -33,11 +43,11 @@ Je vous demanderai en effet de me faire part de vos ressentis, des éventuelles 
 
 Une seconde consultation de suivi sera envisagée si nous le jugeons nécessaire
 
-## Tarifs et modalités de rdv
+### Tarifs et modalités de rdv
 
-**Première consultation :** 45€  
-**Consultation de suivi :** 35€  
-**Forfait 3 consultations :** 100€  
+**Première consultation:** 45€  
+**Consultation de suivi:** 35€  
+**Forfait 3 consultations:** 100€
 
 Paiement par chèque ou espèces.
 
@@ -47,6 +57,13 @@ Possibilité de rdv à distance, en cas de nécessité.
 
 Je me déplace également à domicile pour les Gourdonnais ne pouvant pas se déplacer.
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="948" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=le%20tier%20lieux%20gourdon&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-iframe.com">youtube-iframe.com</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:948px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:948px;}</style></div>
-
-
+<iframe
+  src="https://maps.google.com/maps?q=le%20tier%20lieux%20gourdon&t=&z=17&ie=UTF8&iwloc=&output=embed"
+  frameborder="0"
+  marginheight="0"
+  marginwidth="0"
+  scrolling="no"
+  style="border:0;"
+  width="100%" 
+  height="500">
+</iframe>

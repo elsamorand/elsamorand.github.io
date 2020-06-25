@@ -1,0 +1,33 @@
+{
+  "name": "Elsa Morand - Naturopathe",
+  "short_name": "Elsa Morand",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#737631",
+  "background_color": "#737631",
+  "description": "Hygiène de vie, alimentation, traitements naturels",
+  "version": "06.04.2020",
+  "icons": [
+    { "src": "icon/48.png", "type": "image/png", "sizes": "48x48" },
+    { "src": "icon/72.png", "type": "image/png", "sizes": "72x72" },
+    { "src": "icon/96.png", "type": "image/png", "sizes": "96x96" },
+    { "src": "icon/144.png", "type": "image/png", "sizes": "144x144" },
+    { "src": "icon/192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon/512.png", "type": "image/png", "sizes": "512x512" },
+    { "src": "icon/m48.png", "type": "image/png", "sizes": "48x48", "purpose": "maskable" },
+    { "src": "icon/m72.png", "type": "image/png", "sizes": "72x72", "purpose": "maskable" },
+    { "src": "icon/m96.png", "type": "image/png", "sizes": "96x96", "purpose": "maskable" },
+    { "src": "icon/m144.png", "type": "image/png", "sizes": "144x144", "purpose": "maskable" },
+    { "src": "icon/m192.png", "type": "image/png", "sizes": "192x192", "purpose": "maskable" },
+    { "src": "icon/m512.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" }
+  ],
+  "categories": ["food", "health", "education", "medical"],
+  "orientation": "any",
+  "screenshots" : [
+    {
+      "src": "/preview.jpg",
+      "sizes": "1200x628",
+      "type": "image/jpg"
+    }
+  ]
+}
