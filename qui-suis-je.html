@@ -77,7 +77,7 @@ h1 span {
 
 header {
   text-align: center;
-  background-image: url(/bg.jpg);
+  background-image: url(/image/bg.jpg);
   background-size: 960px;
   color: white;
   background-position: center;
@@ -136,13 +136,14 @@ header a {
 
 h2 {
   text-align: center;
-  margin-top: 90px;
+  padding-top: 90px;
   font-size: 42px;
   color: black;
 }
 
 h3 {
-  margin-top: 70px;
+  padding-top: 70px;
+  clear: both;
 }
 
 p {
@@ -150,16 +151,19 @@ p {
 }
 
 img {
-  width: 50%;
+  width: 360px;
+  max-width: 50%;
   float: left;
-  margin-right: 22px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-blockquote span {
+#contact span {
   margin: 0 6px;
 }
 
-blockquote {
+#contact {
   text-align: center;
   line-height: 32px;
   display: block;
@@ -168,7 +172,7 @@ blockquote {
   padding: 10px 100px;
 }
 
-blockquote div {
+#contact div {
   display: flex;
   justify-content: space-around;
 }
@@ -181,7 +185,15 @@ content {
 }
 
 .hidden {
-  display: none;
+  display: none!important;
+}
+
+blockquote {
+  background: #f8fde2;
+  margin: 0;
+  padding: 20px 30px;
+  border-left: 10px solid #bfcc9c;
+  border-radius: 4px;
 }
 
 @media (max-width: 640px) {
@@ -215,7 +227,7 @@ content {
     border-radius: 0;
   }
 
-  blockquote {
+  #contact {
     padding: 10px 0px;
   }
 
@@ -238,7 +250,7 @@ content {
   }
 
 
-  blockquote {
+  #contact {
     padding: 10px;
   }
 
@@ -267,7 +279,7 @@ content {
       </nav>
     </header>
     <content>
-      <blockquote>
+      <div id="contact">
         <div>
           <span><a href="mailto:morandelsa@yahoo.fr">morandelsa@yahoo.fr</a></span>
           | <span itemprop="telephone"><a href="tel:+33581731501">05&nbsp81&nbsp73&nbsp15&nbsp01</a></span>
@@ -281,12 +293,12 @@ content {
           <span itemprop="postalCode">F-46300</span>
           <span itemprop="addressLocality">Gourdon, France</span>
         </div>
-      </blockquote>
+      </div>
       
 <h2 id="qui-suis-je-">Qui suis-je ?</h2>
 <h3 id="les-d-buts-">Les débuts...</h3>
-<p><img src="https://cdn.discordapp.com/attachments/315112005591760896/707492926330109962/20200505_180419.jpg" alt="portrait">
-Je suis née en 1988, et j&#39;ai commencé à lire des ouvrages de naturopathie et phytothérapie dès l&#39;âge de 10 ans.<br>Cet intérêt précoce, je le dois sans doute à ma mère, qui s&#39;est beaucoup documentée pour offrir à ses enfants une hygiène de vie saine, à l&#39;écart des fast-food, médicaments et autres.<br>J&#39;ai donc acquis très jeune certains des principes fondamentaux de la diététique, ainsi que quelques connaissances sur les plantes médicinales et autres traitements naturels.</p>
+<p><img src="/image/qui-suis-je-square.jpg" alt="portrait"></p>
+<p>Je suis née en 1988, et j&#39;ai commencé à lire des ouvrages de naturopathie et phytothérapie dès l&#39;âge de 10 ans.<br>Cet intérêt précoce, je le dois sans doute à ma mère, qui s&#39;est beaucoup documentée pour offrir à ses enfants une hygiène de vie saine, à l&#39;écart des fast-food, médicaments et autres.<br>J&#39;ai donc acquis très jeune certains des principes fondamentaux de la diététique, ainsi que quelques connaissances sur les plantes médicinales et autres traitements naturels.</p>
 <h3 id="la-suite-">La suite...</h3>
 <p>Plus tard, pour approfondir et développer mes connaissances, j&#39;ai suivi l&#39;enseignement de Robert Masson, et obtenu le certificat de naturopathe en 2011.<br>Depuis, je n&#39;ai jamais cessé d&#39;apprendre et de chercher à comprendre, au travers de nombreuses lectures, des conférences, beaucoup de réflexion, mais aussi en expérimentant sur moi-même certaines théories, et en observant les autres.</p>
 <h3 id="et-aujourd-hui-">Et aujourd&#39;hui...</h3>

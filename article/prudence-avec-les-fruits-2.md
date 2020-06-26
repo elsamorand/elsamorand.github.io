@@ -2,6 +2,8 @@
 
 ### 3/ Les fruits sont refroidissants
 
+![fruits](/image/article/prudence-avec-les-fruits-2-square.jpg)
+
 Il est facile d'en faire l'expérience, et de constater qu'immédiatement après avoir mangé des fruits (entiers ou en jus) et dans les heures qui suivent, on a tendance à avoir un peu froid...  
 Cette frilosité sera là encore plus ou moins marquée selon les circonstances et votre tempérament (voir paragraphes précédents). Certains seront agréablement rafraîchis, d'autres frigorifiés.  
 Encore une fois il semble peu judicieux de manger des fruits en hiver.  

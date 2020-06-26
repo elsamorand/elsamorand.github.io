@@ -8,6 +8,8 @@
 > - les fruits oléagineux _(noix diverses, amandes, avocats, olives, noisettes, pistaches...)_
 > - les fruits amylacés _(chataîgnes et bananes)_
 
+![fruits](/image/article/prudence-avec-les-fruits-1-square.jpg)
+
 Il faut rappeler que les fruits n'ont pas toujours été aussi abondants et appétissants.  
 **La nature se montre parcimonieuse** dans l'hémisphère Nord, dont la France fait partie.  
 Des griottes, des pommes et des prunes petites et acides, quelques figues et baies sauvages essentiellement, que l'on "partage" malgré nous avec les insectes et animaux.  

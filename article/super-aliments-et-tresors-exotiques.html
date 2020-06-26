@@ -85,7 +85,7 @@ h1 span {
 
 header {
   text-align: center;
-  background-image: url(/bg.jpg);
+  background-image: url(/image/bg.jpg);
   background-size: 960px;
   color: white;
   background-position: center;
@@ -144,13 +144,14 @@ header a {
 
 h2 {
   text-align: center;
-  margin-top: 90px;
+  padding-top: 90px;
   font-size: 42px;
   color: black;
 }
 
 h3 {
-  margin-top: 70px;
+  padding-top: 70px;
+  clear: both;
 }
 
 p {
@@ -158,16 +159,19 @@ p {
 }
 
 img {
-  width: 50%;
+  width: 360px;
+  max-width: 50%;
   float: left;
-  margin-right: 22px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-blockquote span {
+#contact span {
   margin: 0 6px;
 }
 
-blockquote {
+#contact {
   text-align: center;
   line-height: 32px;
   display: block;
@@ -176,7 +180,7 @@ blockquote {
   padding: 10px 100px;
 }
 
-blockquote div {
+#contact div {
   display: flex;
   justify-content: space-around;
 }
@@ -189,7 +193,15 @@ content {
 }
 
 .hidden {
-  display: none;
+  display: none!important;
+}
+
+blockquote {
+  background: #f8fde2;
+  margin: 0;
+  padding: 20px 30px;
+  border-left: 10px solid #bfcc9c;
+  border-radius: 4px;
 }
 
 @media (max-width: 640px) {
@@ -223,7 +235,7 @@ content {
     border-radius: 0;
   }
 
-  blockquote {
+  #contact {
     padding: 10px 0px;
   }
 
@@ -246,7 +258,7 @@ content {
   }
 
 
-  blockquote {
+  #contact {
     padding: 10px;
   }
 
@@ -275,7 +287,7 @@ content {
       </nav>
     </header>
     <content>
-      <blockquote>
+      <div id="contact">
         <div>
           <span><a href="mailto:morandelsa@yahoo.fr">morandelsa@yahoo.fr</a></span>
           | <span itemprop="telephone"><a href="tel:+33581731501">05&nbsp81&nbsp73&nbsp15&nbsp01</a></span>
@@ -289,9 +301,10 @@ content {
           <span itemprop="postalCode">F-46300</span>
           <span itemprop="addressLocality">Gourdon, France</span>
         </div>
-      </blockquote>
+      </div>
       
 <h2 id="super-aliments-et-tr-sors-exotiques">Super-aliments et trésors exotiques</h2>
+<p><img src="/image/article/super-aliments-et-tresors-exotiques-square.jpg" alt="acai-bowl"></p>
 <p>Maca, spiruline, poudre de baobab, baies de goji, graines de chia, noix du Brésil...<br>Si vous visez une alimentation saine et que vous fréquentez les magasins bio, ces noms exotiques vous sont sans doute devenus familiers.<br>Ils sont désormais incontournables dans le quotidien de beaucoup d&#39;entre nous, et figurent en bonne place dans la plupart des recettes de petits déjeuners &quot;healthy&quot;, telles que buddha bowl, smoothies et autres müeslis revisités.<br>Si les qualités nutritionnelles et/ou thérapeutiques de ces super-aliments sont bien réelles, il s&#39;agit avant tout d&#39;un piège marketing aussi séduisant qu&#39;absurde.</p>
 <h3 id="manque-de-coh-rence-physiologique">Manque de cohérence physiologique</h3>
 <p>Premièrement, chaque espèce animale et végétale fait partie d&#39;un écosystème local, harmonieux et cohérent, défini par un climat, une altitude, une latitude, des caractéristiques géologiques et magnétiques.<br>Il en va de même pour l&#39;Homme, quiest censé puiser ce qi lui est nécessaire dans son environnement proche.<br>Ainsi, les propriétés nutritionnelles de la spiruline, par exemple, sont sans doute particulièrement adaptées et bénéfiques aux populations locales.<br>Les autres parties du monde ne sont pas privées pour autant !<br>Allez faire une balade dans n&#39;importe quel coin de campagne en France, et cueillez une brassée d&#39;orties fraîches...<br>Vous avez là un super aliment tout aussi bénéfique et beaucoup plusen osmose avec nos organismes.</p>

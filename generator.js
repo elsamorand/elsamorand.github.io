@@ -43,14 +43,25 @@ const articleMeta = ({ name, publishedTime, modifiedTime, tags }) => `
 const parts = (await Deno.readTextFile('./template.html'))
   .split('<!--⚡-->')
 
+
+const run = (cmd) => Deno.run({ cmd, stdout: 'piped' }).output()
+
+const resize = async image => {
+  const basename = image.slice(0, image.lastIndexOf('.'))
+  console.log('creating images for', basename)
+  await run(['gm', 'convert', image, '-resize', '1200x628^', '-gravity', 'center', '-extent', '1200x628', `${basename}-preview.png`])
+  await run(['gm', 'convert', image, '-resize', '720x720^', '-gravity', 'center', '-extent', '720x720', `${basename}-square.png`])
+  await run(['gm', 'convert', image, '-resize', '240x240^', '-gravity', 'center', '-extent', '240x240', `${basename}-icon.png`])
+  await run(['cjpeg', '-quality', '80', '-outfile', `${basename}-preview.jpg`, `${basename}-preview.png`])
+  await run(['cjpeg', '-quality', '80', '-outfile', `${basename}-square.jpg`, `${basename}-square.png`])
+  await run(['cjpeg', '-quality', '80', '-outfile', `${basename}-icon.jpg`, `${basename}-icon.png`])
+}
+
 const dec = new TextDecoder
 const getTime = async file => {
-  const changesText = await Deno.run({
-    cmd: ['git', 'log', '--follow', '--format=%aI', file],
-    stdout: 'piped',
-  }).output()
-
+  const changesText = await run(['git', 'log', '--follow', '--format=%aI', file])
   const changes = dec.decode(changesText).split('\n').filter(Boolean)
+  console.log(['git', 'log', '--follow', '--format=%aI', file].join(' '))
 
   return {
     modifiedTime: changes[0],
@@ -107,6 +118,7 @@ for await (const info of Deno.readDir('.')) {
       ? profileMeta
       : pageMeta,
   ])
+  await resize(`./image/${info.name.slice(0, -3)}.jpg`)
 }
 
 const chunk = (arr, cache = []) => {
@@ -143,7 +155,10 @@ for (const [title, name, tags, description] of chunk(articles)) {
     sharedMeta(article),
     articleMeta(article),
   ])
+
+  await resize(`./image/${name}.jpg`)
 }
+
 
 /*
 

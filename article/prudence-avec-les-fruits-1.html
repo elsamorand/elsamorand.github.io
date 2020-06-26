@@ -81,7 +81,7 @@ h1 span {
 
 header {
   text-align: center;
-  background-image: url(/bg.jpg);
+  background-image: url(/image/bg.jpg);
   background-size: 960px;
   color: white;
   background-position: center;
@@ -140,13 +140,14 @@ header a {
 
 h2 {
   text-align: center;
-  margin-top: 90px;
+  padding-top: 90px;
   font-size: 42px;
   color: black;
 }
 
 h3 {
-  margin-top: 70px;
+  padding-top: 70px;
+  clear: both;
 }
 
 p {
@@ -154,16 +155,19 @@ p {
 }
 
 img {
-  width: 50%;
+  width: 360px;
+  max-width: 50%;
   float: left;
-  margin-right: 22px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-blockquote span {
+#contact span {
   margin: 0 6px;
 }
 
-blockquote {
+#contact {
   text-align: center;
   line-height: 32px;
   display: block;
@@ -172,7 +176,7 @@ blockquote {
   padding: 10px 100px;
 }
 
-blockquote div {
+#contact div {
   display: flex;
   justify-content: space-around;
 }
@@ -185,7 +189,15 @@ content {
 }
 
 .hidden {
-  display: none;
+  display: none!important;
+}
+
+blockquote {
+  background: #f8fde2;
+  margin: 0;
+  padding: 20px 30px;
+  border-left: 10px solid #bfcc9c;
+  border-radius: 4px;
 }
 
 @media (max-width: 640px) {
@@ -219,7 +231,7 @@ content {
     border-radius: 0;
   }
 
-  blockquote {
+  #contact {
     padding: 10px 0px;
   }
 
@@ -242,7 +254,7 @@ content {
   }
 
 
-  blockquote {
+  #contact {
     padding: 10px;
   }
 
@@ -271,7 +283,7 @@ content {
       </nav>
     </header>
     <content>
-      <blockquote>
+      <div id="contact">
         <div>
           <span><a href="mailto:morandelsa@yahoo.fr">morandelsa@yahoo.fr</a></span>
           | <span itemprop="telephone"><a href="tel:+33581731501">05&nbsp81&nbsp73&nbsp15&nbsp01</a></span>
@@ -285,7 +297,7 @@ content {
           <span itemprop="postalCode">F-46300</span>
           <span itemprop="addressLocality">Gourdon, France</span>
         </div>
-      </blockquote>
+      </div>
       
 <h2 id="prudence-avec-les-fruits-partie-1-2-">Prudence avec les fruits (Partie 1/2)</h2>
 <blockquote>
@@ -296,6 +308,7 @@ content {
 <li>les fruits amylacés <em>(chataîgnes et bananes)</em></li>
 </ul>
 </blockquote>
+<p><img src="/image/article/prudence-avec-les-fruits-1-square.jpg" alt="fruits"></p>
 <p>Il faut rappeler que les fruits n&#39;ont pas toujours été aussi abondants et appétissants.<br><strong>La nature se montre parcimonieuse</strong> dans l&#39;hémisphère Nord, dont la France fait partie.<br>Des griottes, des pommes et des prunes petites et acides, quelques figues et baies sauvages essentiellement, que l&#39;on &quot;partage&quot; malgré nous avec les insectes et animaux.<br>Et plus rien durant les mois les plus froids, soit plus de la moitié de l&#39;année.<br>Rien à voir avec l&#39;abondance permanente, sur tous les étals (même bio), de beaux et gros fruits juteux et sucrés, qui incite à une <strong>consommation excessive</strong>, en toute saison.<br>Le tout abondamment relayé par une propagande généralisée.<br>Pourtant, si leurs bienfaits et qualités sont indéniables, <strong>ils peuvent poser problème dans de nombreux cas.</strong></p>
 <h3 id="1-l-acidit-des-fruits">1/ L&#39;acidité des fruits</h3>
 <p>Les fruits contiennent naturellement divers acides organiques (citrique, malique, tartrique, etc).

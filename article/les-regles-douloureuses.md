@@ -1,5 +1,7 @@
 ## Les règles douloureuses
 
+![ventre](/image/article/les-regles-douloureuses-square.jpg)
+
 Les règles sont déclenchées par une chute brutale du taux d'hormones dans le sang.  
 Il est donc naturel que leur arrivée ne passe pas totalement inaperçue et s'accompagne de quelques symptômes, notamment un peu de fatigue, des petites perturbations de l'humeur, du sommeil, de l'appétit ou encore de la libido.  
 En revanche, même s'ils sont banalisés et fréquents, les fortes douleurs et autres symptômes handicapants ne sont pas normaux.  

@@ -13,7 +13,8 @@ Diététique et Naturopathie
 
 ### Les débuts...
 
-![portrait](https://cdn.discordapp.com/attachments/315112005591760896/707492926330109962/20200505_180419.jpg)
+![portrait](/image/qui-suis-je-square.jpg)
+
 Je suis née en 1988, et j'ai commencé à lire des ouvrages de naturopathie et phytothérapie dès l'âge de 10 ans.  
 Cet intérêt précoce, je le dois sans doute à ma mère, qui s'est beaucoup documentée pour offrir à ses enfants une hygiène de vie saine, à l'écart des fast-food, médicaments et autres.  
 J'ai donc acquis très jeune certains des principes fondamentaux de la diététique, ainsi que quelques connaissances sur les plantes médicinales et autres traitements naturels.

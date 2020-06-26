@@ -1,5 +1,7 @@
 ## Super-aliments et trésors exotiques
 
+![acai-bowl](/image/article/super-aliments-et-tresors-exotiques-square.jpg)
+
 Maca, spiruline, poudre de baobab, baies de goji, graines de chia, noix du Brésil...  
 Si vous visez une alimentation saine et que vous fréquentez les magasins bio, ces noms exotiques vous sont sans doute devenus familiers.  
 Ils sont désormais incontournables dans le quotidien de beaucoup d'entre nous, et figurent en bonne place dans la plupart des recettes de petits déjeuners "healthy", telles que buddha bowl, smoothies et autres müeslis revisités.  
