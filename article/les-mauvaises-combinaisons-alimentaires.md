@@ -70,7 +70,7 @@ Dans le milieu acide de l’estomac, la caséine du lait va réagir avec la caf�
 Mais attention ! même sans consommer directement de café au lait, le mélange peut se faire sans que vous n’en soyez conscient :
 par exemple, en finissant par un café un repas qui comprenait du fromage, un yaourt, une crème glacée… Ou en buvant du coca avec ces mêmes aliments.
 
-
+-----------------------------------------
 
 
 > ## _Quelques idées alternatives aux traditions indigestes !_
