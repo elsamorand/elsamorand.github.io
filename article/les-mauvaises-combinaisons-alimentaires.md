@@ -5,6 +5,7 @@ Quelques unes sont acceptables de temps en temps, pour un  individu en bonne san
 D’autres sont vraiment à éviter, c’est de celles-ci qu’il sera question dans cet article.  
 
 
+
 ## 1/ Aliments acides + amidons
 
 | AMIDONS | ACIDES |
@@ -32,6 +33,7 @@ Malheureusement ce mélange est très fréquent et très apprécié…
  - vins, sodas et jus aux repas
  
  
+
 ## 2/ Fruits au cours des repas
  
  Les fruits passent très vite dans l’estomac, car ils sont digérés dans l’intestin uniquement.   
@@ -39,6 +41,7 @@ Malheureusement ce mélange est très fréquent et très apprécié…
  Ce mélange entraîne donc un séjour forcé des fruits dans l’estomac, entraînant divers désordres digestifs.  
  [_Voir l'article détaillé_](https://elsamorand.github.io/article/prudence-avec-les-fruits-2)
  
+
 
 ## 3/ Miel + tout autre aliment
  
@@ -55,6 +58,7 @@ Cet aliment particulier ne pourra être consommé que seul ou accompagné d’un
 A éviter cependant, car cette quantité de sucre concentré prise seule et à jeun va entraîner un pic glycémique peu souhaitable pour la santé…
 
 
+
 ## 4/ Caféine + lait 
 
 La caséine est une protéine contenue dans les laits animaux les plus courants (vache, brebis et chèvre). Elle se retrouve donc dans le lait, les yaourts, les fromages et un peu dans la crème. Elle est quasi absente du beurre, et absente du beurre clarifié.
@@ -65,6 +69,8 @@ Dans le milieu acide de l’estomac, la caséine du lait va réagir avec la caf�
 
 Mais attention ! même sans consommer directement de café au lait, le mélange peut se faire sans que vous n’en soyez conscient :
 par exemple, en finissant par un café un repas qui comprenait du fromage, un yaourt, une crème glacée… Ou en buvant du coca avec ces mêmes aliments.
+
+
 
 
 > ## _Quelques idées alternatives aux traditions indigestes !_
