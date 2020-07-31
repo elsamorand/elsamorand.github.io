@@ -48,6 +48,9 @@ const run = (cmd) => Deno.run({ cmd, stdout: 'piped' }).output()
 
 const resize = async image => {
   const basename = image.slice(0, image.lastIndexOf('.'))
+  if (basename.endsWith('/README') || basename.endsWith('/consultations')) {
+    return
+  }
   console.log('creating images for', basename)
   await run(['gm', 'convert', image, '-resize', '1200x628^', '-gravity', 'center', '-extent', '1200x628', `${basename}-preview.png`])
   await run(['gm', 'convert', image, '-resize', '720x720^', '-gravity', 'center', '-extent', '720x720', `${basename}-square.png`])
@@ -61,7 +64,6 @@ const dec = new TextDecoder
 const getTime = async file => {
   const changesText = await run(['git', 'log', '--follow', '--format=%aI', file])
   const changes = dec.decode(changesText).split('\n').filter(Boolean)
-  console.log(['git', 'log', '--follow', '--format=%aI', file].join(' '))
 
   return {
     modifiedTime: changes[0],
@@ -165,6 +167,7 @@ for (const [title, name, tags, description] of chunk(articles)) {
 TODO:
 
 preserve scroll on page changes (from the nav bar)
+handle default image for README & consultation
 
 
 */
