@@ -156,7 +156,7 @@ p {
   font-size: 18px;
 }
 
-img {
+content > p > img {
   width: 360px;
   max-width: 50%;
   float: left;
@@ -202,6 +202,13 @@ blockquote {
   border-radius: 4px;
 }
 
+#article + ul > li:before {
+  content: ' ';
+  display: block;
+  height: 20px;
+  width: 20px;
+}
+
 @media (max-width: 640px) {
   body {
     font-size: 16px;
@@ -237,12 +244,10 @@ blockquote {
     padding: 10px 0px;
   }
 
-  img {
+  content > p > img {
     width: 100%;
     float: none;
   }
-
-
 }
 
 @media (max-width: 960px) {
@@ -280,8 +285,6 @@ blockquote {
 <li><a href="/consultations">Consultations</a></li>
 <li><a href="/qui-suis-je">Qui suis-je ?</a></li>
 </ul>
-<h1 id="les-4-imp-ratifs-d-une-bonne-alimentation">Les 4 impératifs d&#39;une bonne alimentation</h1>
-<p>Nous sommes actuellement inondés de recommandations sur ce que devrait être notre alimentation.<br>Mais tout régime alimentaire devrait avant tout reposer sur ces 4 piliers:<br><em>naturel, équilibré, digeste et individualisé</em>.<br>Dès lors que ces principes de base sont appliqués, libre à chacun, s‘il le juge utile, de donner à ses repas une tendance paléo, végétarienne, hypocalorique, chronobiologique…<br>En revanche, certains modes alimentaires trop restrictifs ou extrêmes sont incompatibles avec le respect de ces règles de base : régime vegan, carnivore, cétogène, crudivore, frugivore…</p>
 
 
       </nav>
@@ -303,7 +306,10 @@ blockquote {
         </div>
       </div>
       
-<h2 id="1-une-alimentation-naturelle">1/ Une alimentation naturelle</h2>
+<h2 id="les-4-imp-ratifs-d-une-bonne-alimentation">Les 4 impératifs d&#39;une bonne alimentation</h2>
+<p><img src="/image/article/alimentation-les-4-imperatifs-square.jpg" alt="4-ustensils"></p>
+<p>Nous sommes actuellement inondés de recommandations sur ce que devrait être notre alimentation.<br>Mais tout régime alimentaire devrait avant tout reposer sur ces 4 piliers:<br><em>naturel, équilibré, digeste et individualisé</em>.<br>Dès lors que ces principes de base sont appliqués, libre à chacun, s‘il le juge utile, de donner à ses repas une tendance paléo, végétarienne, hypocalorique, chronobiologique…<br>En revanche, certains modes alimentaires trop restrictifs ou extrêmes sont incompatibles avec le respect de ces règles de base : régime vegan, carnivore, cétogène, crudivore, frugivore…</p>
+<h3 id="1-une-alimentation-naturelle">1/ Une alimentation naturelle</h3>
 <p>Nos aliments devraient toujours être au plus proche de leur état brut et contenir le moins d’ingrédients et d’additifs possible.<br>Méfiez-vous des produits transformés et sur-industrialisés. Ils occupent la quasi totalité des rayons des supermarchés, et leurs emballages savamment conçus les rendent très attirants.  </p>
 <p>Préférez les aliments basiques, simples et bio si possible.   </p>
 <p>Pourquoi ?  </p>
@@ -318,7 +324,7 @@ blockquote {
 <li><p>les fruits et légumes crus, non lavés aux désinfectants, ont encore sur leur surface des microorganismes variés, très bénéfiques à la richesse de notre flore intestinale et à notre immunité.</p>
 </li>
 </ul>
-<h2 id="2-une-alimentation-quilibr-e">2/ Une alimentation équilibrée</h2>
+<h3 id="2-une-alimentation-quilibr-e">2/ Une alimentation équilibrée</h3>
 <p>Vos repas doivent vous nourrir. Cela semble évident mais souvent on pense avant tout à combler une sensation de faim, ou satisfaire la gourmandise.<br>Notre organisme, pour bien fonctionner, a besoin de glucides, de protéines, de lipides, de fibres, d’eau et de micronutriments (vitamines, oligoéléments, minéraux…)  </p>
 <p>Chaque catégorie devrait être présente à chaque repas ou presque :  </p>
 
@@ -327,29 +333,28 @@ blockquote {
 <li>des protéines : viande, poisson, oeufs, fruits de mer, fromage  </li>
 <li>des lipides : oeufs, viandes et poissons gras, huiles, beurre, oléagineux, avocats…  </li>
 <li>des fibres et de l’eau : fruits et légumes  </li>
-<li><p>des micronutriments : présents dans les aliments non transformés</p>
-<h2 id="3-une-alimentation-digeste">3/ Une alimentation digeste</h2>
-</li>
+<li>des micronutriments : présents dans les aliments non transformés</li>
 </ul>
+<h3 id="3-une-alimentation-digeste">3/ Une alimentation digeste</h3>
 <p>Une digestion laborieuse, outre les inconforts qu’elle provoque, va être plus coûteuse en énergie, plus lente, et source de nombreux poisons et toxines.<br>Certains signes doivent vous alerter : troubles digestifs chroniques, coups de pompe après les repas, faim qui tarde à réapparaître, boutons, 
 infections fréquentes (ORL, cystites, aphtes, orgelets…)<br>Pour plus d’informations sur l’amélioration de la digestion, lisez l’article qui traite du sujet :  </p>
-<h2 id="4-une-alimentation-individualis-e">4/ Une alimentation individualisée</h2>
+<h3 id="4-une-alimentation-individualis-e">4/ Une alimentation individualisée</h3>
 <p>Il est important d&#39;adapter son régime alimentaire à son âge, sa corpulence, son activité, son tempéraments et ses éventuelles pathologies .<br>Un repas équilibré et digeste pour l&#39;un pourra répondre assez mal aux besoins d&#39;un autre...<br>Ainsi, en se connaissant soi-même, on ajustera les variables suivantes :  </p>
-<h3 id="quantit-s-et-proportions">Quantités et proportions</h3>
+<h4 id="quantit-s-et-proportions">Quantités et proportions</h4>
 
 <ul>
 <li>Plus de protéines pour les personnes âgées, les sportifs...</li>
 <li>Moins de glucides pour les personnes sédentaires, en surpoids...</li>
 <li>Peu de crudités et légumes cuits pour les personnes amaigries et frileuses...</li>
 </ul>
-<h3 id="nature-des-aliments">Nature des aliments</h3>
+<h4 id="nature-des-aliments">Nature des aliments</h4>
 
 <ul>
 <li>Céréales blanches pour les personnes souffrant de colite</li>
 <li>Aliments cuits et chauds pour les personnes frileuses et faibles</li>
 <li>Pas de laitages en cas d&#39;inflammations ou d&#39;allergies</li>
 </ul>
-<h3 id="fr-quence-des-repas">Fréquence des repas</h3>
+<h4 id="fr-quence-des-repas">Fréquence des repas</h4>
 
 <ul>
 <li>certaines personnes s&#39;acommoderont de deux repas par jour, tandis que d&#39;autres se sentiront mieux avec trois ou quatre petits repas</li>

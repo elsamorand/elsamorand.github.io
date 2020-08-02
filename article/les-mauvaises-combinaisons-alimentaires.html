@@ -157,7 +157,7 @@ p {
   font-size: 18px;
 }
 
-img {
+content > p > img {
   width: 360px;
   max-width: 50%;
   float: left;
@@ -203,6 +203,13 @@ blockquote {
   border-radius: 4px;
 }
 
+#article + ul > li:before {
+  content: ' ';
+  display: block;
+  height: 20px;
+  width: 20px;
+}
+
 @media (max-width: 640px) {
   body {
     font-size: 16px;
@@ -238,12 +245,10 @@ blockquote {
     padding: 10px 0px;
   }
 
-  img {
+  content > p > img {
     width: 100%;
     float: none;
   }
-
-
 }
 
 @media (max-width: 960px) {
@@ -281,8 +286,6 @@ blockquote {
 <li><a href="/consultations">Consultations</a></li>
 <li><a href="/qui-suis-je">Qui suis-je ?</a></li>
 </ul>
-<h1 id="les-mauvaises-combinaisons-alimentaires">Les mauvaises combinaisons alimentaires</h1>
-<p>Il est important de connaître les interactions entre certains types d’aliments, car leur combinaisons peuvent être très nuisibles à la digestion.<br>Quelques unes sont acceptables de temps en temps, pour un  individu en bonne santé.<br>D’autres sont vraiment à éviter, c’est de celles-ci qu’il sera question dans cet article.  </p>
 
 
       </nav>
@@ -304,7 +307,10 @@ blockquote {
         </div>
       </div>
       
-<h2 id="1-aliments-acides-amidons">1/ Aliments acides + amidons</h2>
+<h2 id="les-mauvaises-combinaisons-alimentaires">Les mauvaises combinaisons alimentaires</h2>
+<p><img src="/image/article/les-mauvaises-combinaisons-alimentaires-square.jpg" alt="ingredients"></p>
+<p>Il est important de connaître les interactions entre certains types d’aliments, car leur combinaisons peuvent être très nuisibles à la digestion.<br>Quelques unes sont acceptables de temps en temps, pour un  individu en bonne santé.<br>D’autres sont vraiment à éviter, c’est de celles-ci qu’il sera question dans cet article.  </p>
+<h3 id="1-aliments-acides-amidons">1/ Aliments acides + amidons</h3>
 
 <table>
 <thead>
@@ -365,9 +371,9 @@ blockquote {
 <li>salades de lentilles : légumineuse + vinaigre</li>
 <li>vins, sodas et jus aux repas</li>
 </ul>
-<h2 id="2-fruits-au-cours-des-repas">2/ Fruits au cours des repas</h2>
+<h3 id="2-fruits-au-cours-des-repas">2/ Fruits au cours des repas</h3>
 <p> Les fruits passent très vite dans l’estomac, car ils sont digérés dans l’intestin uniquement.<br> Tous les autre aliments doivent en revanche rester plusieurs heures dans l’estomac.<br> Ce mélange entraîne donc un séjour forcé des fruits dans l’estomac, entraînant divers désordres digestifs.<br> <a href="https://elsamorand.github.io/article/prudence-avec-les-fruits-2"><em>Voir l&#39;article détaillé</em></a></p>
-<h2 id="3-miel-tout-autre-aliment">3/ Miel + tout autre aliment</h2>
+<h3 id="3-miel-tout-autre-aliment">3/ Miel + tout autre aliment</h3>
 <p> Le miel est un puissant inhibiteur de digestion, pour deux raisons principales :</p>
 
 <ul>
@@ -379,7 +385,7 @@ blockquote {
 <p>Par ces deux processus, et notamment le second, tout aliment consommé avec du miel sera très mal digéré.</p>
 <p>Cet aliment particulier ne pourra être consommé que seul ou accompagné d’une infusion, ou d’un thé, et en dehors de toute digestion et de tout repas.</p>
 <p>A éviter cependant, car cette quantité de sucre concentré prise seule et à jeun va entraîner un pic glycémique peu souhaitable pour la santé…</p>
-<h2 id="4-caf-ine-lait">4/ Caféine + lait</h2>
+<h3 id="4-caf-ine-lait">4/ Caféine + lait</h3>
 <p>La caséine est une protéine contenue dans les laits animaux les plus courants (vache, brebis et chèvre). Elle se retrouve donc dans le lait, les yaourts, les fromages et un peu dans la crème. Elle est quasi absente du beurre, et absente du beurre clarifié.</p>
 <p>La caféine est un alcaloïde présent dans le café, mais aussi dans le cacao et dans le thé, le coca, le maté.</p>
 <p>Dans le milieu acide de l’estomac, la caséine du lait va réagir avec la caféine, et “floculer”, créant des fragment très difficiles à digérer, et toxiques pour le foie.</p>
@@ -387,7 +393,7 @@ blockquote {
 par exemple, en finissant par un café un repas qui comprenait du fromage, un yaourt, une crème glacée… Ou en buvant du coca avec ces mêmes aliments.</p>
 <hr>
 <blockquote>
-<h2 id="_quelques-id-es-alternatives-aux-traditions-indigestes-_"><em>Quelques idées alternatives aux traditions indigestes !</em></h2>
+<h3 id="_quelques-id-es-alternatives-aux-traditions-indigestes-_"><em>Quelques idées alternatives aux traditions indigestes !</em></h3>
 
 <ul>
 <li><p>Essayez le lait d’avoine, de noisette ou de coco dans votre café, le mariage est généralement très apprécié.</p>

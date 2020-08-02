@@ -28,3 +28,42 @@ Diététique et Naturopathie
 
 - [Les mauvaises combinaisons alimentaires](/article/les-mauvaises-combinaisons-alimentaires) acides, amidons, miel, café, lait, fruits
 > Les principales associations à éviter pour une bonne digestion
+
+<script>
+const elements = [...document.querySelectorAll('content ul li')]
+elements[0].parentElement.style.padding = 0
+for (const el of elements) {
+  const [link] = el.getElementsByTagName('a')
+  const [block] = el.getElementsByTagName('p')
+  const [description] = el.getElementsByTagName('blockquote')
+  const img = document.createElement('img')
+  const div = document.createElement('div')
+  const span = document.createElement('span')
+  el.style.display = 'flex'
+  el.style.flexDirection = 'row'
+  el.style.background = '#f8fde2'
+  el.style.margin = '12px 0'
+  el.style.borderRadius = '4px'
+  el.style.overflow = 'hidden'
+  span.style.color = '#413e19'
+  div.style.display = 'flex'
+  div.style.flexDirection = 'column'
+  div.style.alignContent = 'center'
+  div.style.justifyContent = 'center'
+  link.style.fontSize = '26px'
+  img.style.width = `120px`
+  img.style.height = `120px`
+  img.style.marginRight = '12px'
+  img.src = `${link.href.replace('/article/', '/image/article/')}-icon.jpg`
+
+  while (description.firstChild) {
+    span.appendChild(description.firstChild)
+  }
+
+  div.append(link, span)
+  block.remove()
+  description.remove()
+
+  el.append(img, div)
+}
+</script>

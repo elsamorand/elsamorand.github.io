@@ -1,4 +1,6 @@
-# Les mauvaises combinaisons alimentaires
+## Les mauvaises combinaisons alimentaires
+
+![ingredients](/image/article/les-mauvaises-combinaisons-alimentaires-square.jpg)
 
 Il est important de connaître les interactions entre certains types d’aliments, car leur combinaisons peuvent être très nuisibles à la digestion.  
 Quelques unes sont acceptables de temps en temps, pour un  individu en bonne santé.  
@@ -6,7 +8,7 @@ D’autres sont vraiment à éviter, c’est de celles-ci qu’il sera question 
 
 
 
-## 1/ Aliments acides + amidons
+### 1/ Aliments acides + amidons
 
 | AMIDONS | ACIDES |
 |--------|-------|
@@ -34,7 +36,7 @@ Malheureusement ce mélange est très fréquent et très apprécié…
  
  
 
-## 2/ Fruits au cours des repas
+### 2/ Fruits au cours des repas
  
  Les fruits passent très vite dans l’estomac, car ils sont digérés dans l’intestin uniquement.   
  Tous les autre aliments doivent en revanche rester plusieurs heures dans l’estomac.  
@@ -43,7 +45,7 @@ Malheureusement ce mélange est très fréquent et très apprécié…
  
 
 
-## 3/ Miel + tout autre aliment
+### 3/ Miel + tout autre aliment
  
  Le miel est un puissant inhibiteur de digestion, pour deux raisons principales :
  
@@ -59,7 +61,7 @@ A éviter cependant, car cette quantité de sucre concentré prise seule et à j
 
 
 
-## 4/ Caféine + lait 
+### 4/ Caféine + lait 
 
 La caséine est une protéine contenue dans les laits animaux les plus courants (vache, brebis et chèvre). Elle se retrouve donc dans le lait, les yaourts, les fromages et un peu dans la crème. Elle est quasi absente du beurre, et absente du beurre clarifié.
 
@@ -73,7 +75,7 @@ par exemple, en finissant par un café un repas qui comprenait du fromage, un ya
 -----------------------------------------
 
 
-> ## _Quelques idées alternatives aux traditions indigestes !_
+> ### _Quelques idées alternatives aux traditions indigestes !_
 >
 >  - Essayez le lait d’avoine, de noisette ou de coco dans votre café, le mariage est généralement très apprécié.
 > 
