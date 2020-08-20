@@ -11,6 +11,9 @@ Diététique et Naturopathie
 
 ## Articles
 
+- [Les clefs d'une bonne digestion - 1](/article/les-clefs-d-une-bonne-digestion-1) faim, température, stress, fatigue, mastication, enzymes
+> Les habitudes essentielles à adopter pour soutenir efficacement la digestion
+
 - [Les règles douloureuses](/article/les-regles-douloureuses) règles, magnésium, hormones
 > Comprendre et soigner naturellement les règles douloureuses
 
