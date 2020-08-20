@@ -1,4 +1,4 @@
-## Retrouver une bonne digestion (partie 1/2)
+## Les clefs d'une bonne digestion (partie 1/2)
 
 Ballonnements, flatulences, brûlures d’estomac, pesanteurs, douleurs, transit perturbé…  
 Les remèdes sont nombreux pour soulager ponctuellement une digestion laborieuse.  
