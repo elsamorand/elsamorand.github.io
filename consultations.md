@@ -47,15 +47,15 @@ Une seconde consultation de suivi sera envisagée si nous le jugeons nécessaire
 
 **Première consultation:** 45€  
 **Consultation de suivi:** 35€  
-**Forfait 3 consultations:** 100€
 
 Paiement par chèque ou espèces.
 
-Les consultations ont lieu au Tiers-Lieu, au centre de Gourdon, sur RDV.
 
-Possibilité de rdv à distance, en cas de nécessité.
+Les consultations ont lieu au centre de Gourdon, sur RDV.
 
-Je me déplace également à domicile pour les Gourdonnais ne pouvant pas se déplacer.
+Je me déplace à domicile pour les Gourdonnais ne pouvant pas se déplacer.
+
+Je propose également des consultations à distance, via Skype, Zoom ou Discord.
 
 <iframe
   src="https://maps.google.com/maps?q=le%20tier%20lieux%20gourdon&t=&z=17&ie=UTF8&iwloc=&output=embed"
