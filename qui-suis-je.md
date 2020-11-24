@@ -29,3 +29,6 @@ Depuis, je n'ai jamais cessé d'apprendre et de chercher à comprendre, au trave
 Je continue ce passionnnant travail de recherche, le plus objectivement possible, toujours humble face aux faits.  
 J'ai à coeur de partager tout cela avec ceux qui aiment apprendre, comprendre, qui ont besoin de pistes et de conseils pour se sentir mieux au quotidien, qui souhaitent gérer leur santé de manière autonome et responsable.  
 Mon objectif est également d'éclaircir, de nuancer, certains dogmes et idées reçues rarement remis en question.
+
+
+Retrouvez-moi également sur ma [chaîne Youtube](https://www.youtube.com/channel/UCniLFQIu9UNK1ITvEZXW1kw?view_as=subscriber)
