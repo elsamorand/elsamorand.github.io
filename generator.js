@@ -51,7 +51,7 @@ const resize = async image => {
   if (basename.endsWith('/README') || basename.endsWith('/consultations')) {
     return
   }
-  console.log('creating images for', basename)
+  console.log('creating images for', image)
   await run(['gm', 'convert', image, '-resize', '1200x628^', '-gravity', 'center', '-extent', '1200x628', `${basename}-preview.png`])
   await run(['gm', 'convert', image, '-resize', '720x720^', '-gravity', 'center', '-extent', '720x720', `${basename}-square.png`])
   await run(['gm', 'convert', image, '-resize', '240x240^', '-gravity', 'center', '-extent', '240x240', `${basename}-icon.png`])
@@ -92,7 +92,7 @@ const buildPage = async (filename, meta) => {
   if (!markdown.includes('## Menu')) {
     markdown = `${mdHeading}\n${markdown}`
   }
-  const html = Marked.parse(markdown)
+  const html = Marked.parse(markdown).content
   const startOfMenuIndex = html.indexOf('<h2 id="menu">Menu</h2>')
   const endOfMenuIndex = html.indexOf('<h2', startOfMenuIndex + 1)
 
@@ -158,7 +158,7 @@ for (const [title, name, tags, description] of chunk(articles)) {
     articleMeta(article),
   ])
 
-  await resize(`./image/${name}.jpg`)
+  await resize(`./image${name}.jpg`)
 }
 
 
